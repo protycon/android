@@ -50,3 +50,8 @@ athanotify:
 
 first_bus:
   - com.firstgroup.first.bus/com.firstgroup.splash.controller.SplashActivity
+
+ausweisapp2:
+  - com.governikus.ausweisapp2/com.governikus.ausweisapp2.MainActivity
+
+ausweisapp2_alt_1: {}
